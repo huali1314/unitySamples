@@ -1,0 +1,11 @@
+{
+"infoList":
+[
+{"panelTypeString":"LoginPanel",
+"path":"LoginUI"},
+{"panelTypeString":"SelectServerPanel",
+"path":"SelectServerUI"},
+{"panelTypeString":"AlertPanel",
+"path":"AlertUI"}
+]
+}
